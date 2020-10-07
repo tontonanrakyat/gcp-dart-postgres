@@ -1,0 +1,8 @@
+name: hello
+description: Hello
+
+dependencies:
+  mime_type: ^0.3.2
+  http_server: ^0.9.8+3
+  postgres: ^2.2.0
+
